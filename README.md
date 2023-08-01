@@ -11,3 +11,8 @@
 
 <img height="420" alt="Stylized tree polygonated" src="https://github.com/IsaacRF/blender3d_training/assets/2803925/8cb86bf2-520e-4163-89cc-3b4edfefbaae">
 <img height="420" alt="Stylized tree smooth" src="https://github.com/IsaacRF/blender3d_training/assets/2803925/9fb69657-b83f-40bb-aaef-df96977c2fd4">
+
+## Design 3: Stylized Cannon
+[📄 cannon_stylized.blend](https://github.com/IsaacRF/blender3d_training/blob/main/cannon_stylized.blend)
+
+<img width="751" alt="image" src="https://github.com/IsaacRF/blender3d_training/assets/2803925/28c85dc6-b1f6-47e0-b32e-d20a06870e57">
